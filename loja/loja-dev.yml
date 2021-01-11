@@ -1,6 +1,6 @@
 server.port: 8090
 
-scopo.teste: ABCD
+scopo.teste: XPTO
 
 management: 
     endpoint: 

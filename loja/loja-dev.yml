@@ -1,6 +1,6 @@
 server.port: 8090
 
-scopo.teste: XXXX
+scopo.teste: ABCD
 
 management: 
     endpoint: 
